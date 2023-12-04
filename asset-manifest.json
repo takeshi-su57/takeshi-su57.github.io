@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.317c2ba1.css",
+    "main.js": "/static/js/main.956590cc.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Takeshi-Suzuki-Software.pdf": "/static/media/Takeshi-Suzuki-Software.b33f975bac9cd844126f.pdf",
+    "static/media/bidout.png": "/static/media/bidout.a70ae5e5096743e5b85e.png",
+    "static/media/leadaction.png": "/static/media/leadaction.eb3a291137a667f9d607.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/bonzo.png": "/static/media/bonzo.8e5cb85b8d6263dc709a.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/woofz.png": "/static/media/woofz.56decb473afceedec9aa.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.317c2ba1.css.map": "/static/css/main.317c2ba1.css.map",
+    "main.956590cc.js.map": "/static/js/main.956590cc.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317c2ba1.css",
+    "static/js/main.956590cc.js"
+  ]
+}
