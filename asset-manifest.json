@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.317c2ba1.css",
-    "main.js": "/static/js/main.956590cc.js",
+    "main.js": "/static/js/main.34ac5109.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Takeshi-Suzuki-Software.pdf": "/static/media/Takeshi-Suzuki-Software.b33f975bac9cd844126f.pdf",
+    "static/media/Takeshi-Suzuki-Software.pdf": "/static/media/Takeshi-Suzuki-Software.4a4ec3c29ffd1461f706.pdf",
     "static/media/bidout.png": "/static/media/bidout.a70ae5e5096743e5b85e.png",
     "static/media/leadaction.png": "/static/media/leadaction.eb3a291137a667f9d607.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.317c2ba1.css.map": "/static/css/main.317c2ba1.css.map",
-    "main.956590cc.js.map": "/static/js/main.956590cc.js.map",
+    "main.34ac5109.js.map": "/static/js/main.34ac5109.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.317c2ba1.css",
-    "static/js/main.956590cc.js"
+    "static/js/main.34ac5109.js"
   ]
 }
